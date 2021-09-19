@@ -1,0 +1,11 @@
+.bg-img {
+  background: url(https://source.unsplash.com/1200x200/?sunset) center/ contain
+    no-repeat;
+  background-size: 100% 100%;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
